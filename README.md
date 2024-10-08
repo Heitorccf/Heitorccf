@@ -1,16 +1,29 @@
-## Hi there 👋
+🎓 **Estudante de Sistemas de Informação** - IFSP (Instituto Federal de São Paulo)
 
-<!--
-**Heitorccf/Heitorccf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Apaixonado por Programação e Data Science**  
+Sou um entusiasta em tecnologia com uma paixão por resolver problemas e criar soluções através da programação. Tenho foco em **ciência de dados**, com experiência em diversas linguagens e ferramentas de desenvolvimento, incluindo Python, JavaScript, PHP e bibliotecas de machine learning.
 
-Here are some ideas to get you started:
+📊 **Explorando o mundo dos dados**  
+Meu interesse está na aplicação prática de **análise de dados**, **aprendizado de máquina** e **visão computacional** para projetos do mundo real. Sempre em busca de aprender novas técnicas e compartilhar conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 O que estou estudando atualmente:
+- **Data Science** e **Machine Learning**
+- **Engenharia de Dados** com foco em automação de processos
+- **Visão Computacional** com OpenCV e MediaPipe
+
+---
+
+## 🚀 Habilidades Técnicas:
+- **Linguagens:** Python, Java, PHP, JavaScript, SQL
+- **Frameworks e Bibliotecas:** Scikit-learn, Pandas, React, Laravel, Node.js
+- **Ferramentas:** Git, Docker, Jupyter Notebooks, MySQL, PostgreSQL
+
+---
+
+## 🌐 Conecte-se comigo:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorccf)
+- [![Alura](https://img.shields.io/badge/Alura-1877F2?style=for-the-badge&logo=alura&logoColor=white)](https://cursos.alura.com.br/user/Heitorccf)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/heitorccf)
