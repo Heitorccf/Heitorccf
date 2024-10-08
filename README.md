@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://studioghibli.jp/static/media/water-reflection.d7236029.gif" alt="Water Reflection" width="600" style="border-radius: 20px;">
+</p>
+
 🎓 **Estudante de Sistemas de Informação** - IFSP (Instituto Federal de São Paulo)
 
 👨‍💻 **Apaixonado por Programação e Data Science**  
@@ -27,3 +31,7 @@ Meu interesse está na aplicação prática de **análise de dados**, **aprendiz
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorccf)
 - [![Alura](https://img.shields.io/badge/Alura-1877F2?style=for-the-badge&logo=alura&logoColor=white)](https://cursos.alura.com.br/user/Heitorccf)
 - [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/heitorccf)
+
+---
+
+✨ **Vamos colaborar em projetos de Data Science e desenvolvimento de software!**
