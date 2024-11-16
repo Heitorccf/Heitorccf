@@ -2,41 +2,53 @@
     <img src="https://studioghibli.jp/static/media/water-reflection.d7236029.gif" alt="Water Reflection" width="600" style="border-radius: 20px;">
 </p>
 
-# Hi there! 👋 
+# Hey! Nice to meet you 👋 
 
 🎓 **IT Student** - Federal Institute of Education, Science and Technology of São Paulo (IFSP)  
-👨🏻‍💻 **Programming, Data Science, and Open Source Enthusiast**
+👨🏻‍💻 **Programming and Data Science Enthusiast**
 
-I'm a technology enthusiast passionate about solving problems and creating solutions through programming. I have a special interest in **data science** and am a strong advocate for the **Open Source** movement, actively contributing to projects involving machine learning and artificial intelligence.
+I love diving into code and working with data! When I'm not building type-safe applications with TypeScript or developing with Laravel, you can find me analyzing datasets and working on machine learning projects. I enjoy both worlds - crafting efficient backend solutions and uncovering insights from data.
 
-## 🚀 My Current Journey
-I'm currently diving deep into the fascinating world of **data analysis**, developing and implementing **machine learning models** to solve real-world complex problems. I work with the entire data pipeline, from preparation to model implementation, always seeking innovative ways to apply **artificial intelligence** in open source projects.
+## 🚀 What I'm Up To
+These days I'm working on backend development with TypeScript and PHP frameworks while also exploring data analysis. I love solving complex problems, whether it's architecting a scalable API or finding interesting patterns in datasets. Currently diving deeper into NestJS and machine learning - there's always something new to learn in tech!
 
-## 📚 Areas of Study
-- **Data Science and Machine Learning**: Exploring advanced predictive analysis techniques
-- **Data Engineering**: Developing robust and automated pipelines
-- **Artificial Intelligence**: Focusing on predictive models and computer vision
+## 📚 What Keeps Me Busy
+- Creating robust backend systems with TypeScript and PHP
+- Exploring data science and machine learning
+- Building efficient APIs and microservices
+- Working with data pipelines and analysis
+- Experimenting with AI models
 
-## 🛠️ Tech Stack
+## 🛠️ My Tools of Choice
 
-### Data Analysis and Manipulation
-- **Core Frameworks**: Pandas, NumPy, Dask
-- **Visualization**: Matplotlib, Seaborn, Plotly
+### Backend Development
+- **TypeScript Stack**: NestJS, Express.js, TypeORM
+- **PHP Frameworks**: Laravel, Composer
+- **API Development**: REST, GraphQL, Swagger
+- **Testing**: Jest, PHPUnit
+- **Auth & Security**: JWT, OAuth, Passport
 
-### Machine Learning and AI
-- **ML Libraries**: Scikit-learn, XGBoost, LightGBM
+### For Data Work
+- **The Essentials**: Pandas, NumPy, Dask
+- **Making Data Pretty**: Matplotlib, Seaborn, Plotly
+- **Statistical Analysis**: SciPy, Statsmodels
+
+### AI & Machine Learning
+- **ML Tools**: Scikit-learn, XGBoost, LightGBM
 - **Deep Learning**: PyTorch, TensorFlow, Keras
 - **Computer Vision**: OpenCV, MediaPipe
-- **Natural Language Processing**: NLTK, spaCy, Hugging Face
+- **Text Processing**: NLTK, spaCy, Hugging Face
 
-### Infrastructure and Tools
-- **Development**: Jupyter Notebooks, Git
-- **MLOps**: Docker, Airflow, MLflow
-- **Databases**: MySQL, PostgreSQL, MongoDB
+### Infrastructure & DevOps
+- **Daily Drivers**: Git, Docker, VSCode
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Cloud & Deployment**: AWS, Heroku
+- **CI/CD**: GitHub Actions, Jenkins
+- **Monitoring**: New Relic, Sentry
 
 ## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorccf)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/heitorccf)
 
 ---
-💡 *Always open to collaborations and new connections! Feel free to reach out to discuss interesting projects or exchange ideas about technology.*
+💡 *Always up for a good tech chat or collaboration! Drop me a message if you want to talk about code, data, or tech in general*
