@@ -2,53 +2,53 @@
     <img src="https://studioghibli.jp/static/media/water-reflection.d7236029.gif" alt="Water Reflection" width="600" style="border-radius: 20px;">
 </p>
 
-# Hey! Nice to meet you 👋 
+# Hey! 👋 
 
 🎓 **IT Student** - Federal Institute of Education, Science and Technology of São Paulo (IFSP)  
-👨🏻‍💻 **Programming and Data Science Enthusiast**
+👨🏻‍💻 **Learning and Growing in Programming**
 
-I love diving into code and working with data! When I'm not building type-safe applications with TypeScript or developing with Laravel, you can find me analyzing datasets and working on machine learning projects. I enjoy both worlds - crafting efficient backend solutions and uncovering insights from data.
+I'm exploring both backend development and data science.
 
-## 🚀 What I'm Up To
-These days I'm working on backend development with TypeScript and PHP frameworks while also exploring data analysis. I love solving complex problems, whether it's architecting a scalable API or finding interesting patterns in datasets. Currently diving deeper into NestJS and machine learning - there's always something new to learn in tech!
+## 🚀 What I'm Learning
+Currently diving into backend architecture concepts while exploring the foundations of data science. I'm particularly interested in how we can use data analysis to improve backend applications and create more intelligent systems.
 
-## 📚 What Keeps Me Busy
-- Creating robust backend systems with TypeScript and PHP
-- Exploring data science and machine learning
-- Building efficient APIs and microservices
-- Working with data pipelines and analysis
-- Experimenting with AI models
+## 📚 Study Focus
+- Building efficient and scalable backend systems
+- Understanding data analysis and its real-world applications
+- Developing APIs and working with different database structures
+- Learning about machine learning and its practical uses
 
-## 🛠️ My Tools of Choice
+## 🛠️ Technologies I'm Learning
 
-### Backend Development
-- **TypeScript Stack**: NestJS, Express.js, TypeORM
-- **PHP Frameworks**: Laravel, Composer
-- **API Development**: REST, GraphQL, Swagger
+### Languages & Frameworks
+- **TypeScript & JavaScript**: NestJS, Express.js, TypeORM
+- **PHP**: Laravel, Composer
+- **Python**: NumPy, Pandas, Matplotlib, Seaborn
+- **SQL**: MySQL, PostgreSQL
+- **NoSQL**: MongoDB, Redis
+
+### Development & Tools
+- **Version Control & CI**: Git, GitHub Actions
+- **Containers**: Docker
+- **Cloud**: AWS basics
+- **IDE**: VSCode
+- **API Tools**: Postman, Swagger
+
+### Data Science & ML
+- **Machine Learning**: Scikit-learn, XGBoost
+- **Deep Learning**: TensorFlow, PyTorch
+- **Computer Vision**: OpenCV
+- **Data Processing**: Pandas, NumPy, Dask
+- **Visualization**: Matplotlib, Seaborn, Plotly
+
+### Testing & Documentation
 - **Testing**: Jest, PHPUnit
-- **Auth & Security**: JWT, OAuth, Passport
-
-### For Data Work
-- **The Essentials**: Pandas, NumPy, Dask
-- **Making Data Pretty**: Matplotlib, Seaborn, Plotly
-- **Statistical Analysis**: SciPy, Statsmodels
-
-### AI & Machine Learning
-- **ML Tools**: Scikit-learn, XGBoost, LightGBM
-- **Deep Learning**: PyTorch, TensorFlow, Keras
-- **Computer Vision**: OpenCV, MediaPipe
-- **Text Processing**: NLTK, spaCy, Hugging Face
-
-### Infrastructure & DevOps
-- **Daily Drivers**: Git, Docker, VSCode
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
-- **Cloud & Deployment**: AWS, Heroku
-- **CI/CD**: GitHub Actions, Jenkins
-- **Monitoring**: New Relic, Sentry
+- **API Documentation**: Swagger
+- **Authentication**: JWT, OAuth
 
 ## 🌐 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitorccf)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/heitorccf)
 
 ---
-💡 *Always up for a good tech chat or collaboration! Drop me a message if you want to talk about code, data, or tech in general*
+💡 *Always eager to learn and collaborate! Feel free to reach out if you want to study together or share knowledge!*
